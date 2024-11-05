@@ -3,8 +3,10 @@
 
 - Reach me at **julianosilvaleal2@gmail.com**
 
-- <h3 align="left">Connect with me:</h3>
+- <h3 align="left">Connect with me in my social networks:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juliano-da-silva-leal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliano leal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/juliano.leal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas.b.cordeiro" height="30" width="40" /></a>
+<a href="https://www.instagram.com/juliano.leal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliano.leal" height="30" width="40" /></a>
 </p>
+- <h3>My knowledge:</h3>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></p>

@@ -9,4 +9,4 @@
 <a href="https://www.instagram.com/juliano.leal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliano.leal" height="30" width="40" /></a>
 </p>
 - <h3>My knowledge:</h3>
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></p>
+<p align="left"><img padding="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></p>
